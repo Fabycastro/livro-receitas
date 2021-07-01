@@ -2,4 +2,5 @@
 
 Olá! Bem vindo ao meu livro de receitas :wave:
 
-- Strogonoff de Franco
+- Strogonoff de Frango
+- Strogonoff de Carne
